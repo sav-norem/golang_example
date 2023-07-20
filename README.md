@@ -7,10 +7,9 @@ Update in helloworld.go the addr field, and include the port. Also include the p
 ```
 Addr: redis-14299.c1.asia-northeast1-1.gce.cloud.redislabs.com:14299
 Password: "XXXXXX"
+```
 
 ### Testing Against Cloud Redis Stack
-
-```
 # Server
 redis_version:6.2.7
 redis_git_sha1:e6f67092
