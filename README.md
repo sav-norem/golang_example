@@ -11,6 +11,7 @@ Password: "XXXXXX"
 
 ### Testing Against Cloud Redis Stack
 # Server
+```
 redis_version:6.2.7
 redis_git_sha1:e6f67092
 redis_git_dirty:0
