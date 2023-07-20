@@ -10,7 +10,7 @@ Password: "XXXXXX"
 ```
 
 ### Testing Against Cloud Redis Stack
-# Server
+redis-12027.c89.us-east-1-3.ec2.cloud.redislabs.com:12027
 ```
 redis_version:6.2.7
 redis_git_sha1:e6f67092
@@ -31,7 +31,7 @@ OK
 1689879975.241899 [0 172.17.0.1:59432] "get" "foo"
 ```
 
-### Against Redis Cloud
+### Against Redis Cloud 7.2
 
 Instance created Redis Stack 7.2.0.
 
